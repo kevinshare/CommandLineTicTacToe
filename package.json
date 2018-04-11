@@ -1,0 +1,29 @@
+{
+  "name": "commandlinetictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "howToPlay": "node app.js how",
+    "TL": "node app.js TL 00",
+    "TC": "node app.js TC 01",
+    "TR": "node app.js TR 02",
+    "ML": "node app.js ML 10",
+    "MC": "node app.js MC 11",
+    "MR": "node app.js MR 12",
+    "BL": "node app.js BL 20",
+    "BC": "node app.js BC 21",
+    "BR": "node app.js BR 22", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinshare/CommandLineTicTacToe.git"
+  },
+  "author": "Kevin Share",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinshare/CommandLineTicTacToe/issues"
+  },
+  "homepage": "https://github.com/kevinshare/CommandLineTicTacToe#readme"
+}
